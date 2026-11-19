@@ -19,7 +19,7 @@ I build full-stack web apps and AI-powered backends — from FastAPI + Gemini ag
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-year student, Faculty of Computers and Information — specializing in **Computer Science & Artificial Intelligence**
+- 🎓 Third-year student, **New Salhia University** — Faculty of Computers and Information, specializing in **Computer Science & Artificial Intelligence**
 - 🤖 Building **AI agents and AI-powered backends** with Python, FastAPI and Gemini
 - 🌐 Building **full-stack websites** — storefronts, cafés and restaurant systems, deployed live on Vercel
 - 🏆 ITI capstone graduate — **SmartDoc_AI**, a document backend with Gemini analysis and a controlled read-only AI agent
