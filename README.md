@@ -12,6 +12,8 @@ I build full-stack web apps and AI-powered backends — from FastAPI + Gemini ag
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/mo420563-cmyk/Extra-Top)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/mo420563-cmyk/Extra-Top)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-omar-74b41b285/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1Q6yzr3gom/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed.omar.72/)
 
 </div>
 
@@ -77,3 +79,5 @@ I build full-stack web apps and AI-powered backends — from FastAPI + Gemini ag
 - 📧 **Email:** mo420563@gmail.com
 - 💻 **GitHub:** [github.com/mo420563-cmyk](https://github.com/mo420563-cmyk)
 - 🔗 **LinkedIn:** [linkedin.com/in/mohamed-omar-74b41b285](https://www.linkedin.com/in/mohamed-omar-74b41b285/)
+- 📘 **Facebook:** [facebook.com/share/1Q6yzr3gom](https://www.facebook.com/share/1Q6yzr3gom/)
+- 📸 **Instagram:** [instagram.com/mohamed.omar.72](https://www.instagram.com/mohamed.omar.72/)
