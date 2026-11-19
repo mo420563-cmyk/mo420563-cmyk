@@ -28,13 +28,13 @@ I build full-stack web apps and AI-powered backends — from FastAPI + Gemini ag
 
 | Project | What it is | Tech | Live |
 |---|---|---|---|
-| [**SmartDoc_AI**](https://github.com/mo420563-cmyk/SmartDoc_AI) ⭐ | FastAPI document backend with Gemini analysis and a controlled read-only AI agent — ITI capstone | Python, FastAPI, Gemini, SQLite, Alembic | API — see README |
-| [**Extra-Top**](https://github.com/mo420563-cmyk/Extra-Top) | Restaurant website with live menu, ordering and admin | Node.js, SQLite, JavaScript | [extra-top.vercel.app](https://extra-top.vercel.app) |
-| [**Revo-Cafee-n1**](https://github.com/mo420563-cmyk/Revo-Cafee-n1) | Responsive café website — menu, products, about & contact | HTML, CSS, JavaScript | [revo-cafee-n1.vercel.app](https://revo-cafee-n1.vercel.app) |
+| [**SmartDoc_AI**](https://github.com/mo420563-cmyk/SmartDoc_AI) ⭐ **Favorite** | FastAPI document backend with Gemini analysis and a controlled read-only AI agent — ITI capstone | Python, FastAPI, Gemini, SQLite, Alembic | API — see README |
+| [**Extra-Top**](https://github.com/mo420563-cmyk/Extra-Top) ⭐ **Favorite** | Restaurant website with live menu, ordering and admin | Node.js, SQLite, JavaScript | [extra-top.vercel.app](https://extra-top.vercel.app) |
+| [**Revo-Cafee-n1**](https://github.com/mo420563-cmyk/Revo-Cafee-n1) ⭐ **Favorite** | Responsive café website — menu, products, about & contact | HTML, CSS, JavaScript | [revo-cafee-n1.vercel.app](https://revo-cafee-n1.vercel.app) |
 | [**Fruit-Shop**](https://github.com/mo420563-cmyk/Fruit-Shop) | Fresh fruit store website | HTML, CSS, JavaScript | [fruit-shop-teal.vercel.app](https://fruit-shop-teal.vercel.app) |
 | [**MAVREK**](https://mavrek-site2.vercel.app) | Live fashion e-commerce store | Full-stack, Vercel | [mavrek-site2.vercel.app](https://mavrek-site2.vercel.app) |
 
-> ⭐ **SmartDoc_AI** is my flagship project — if you read one repo, read that one.
+> ⭐ **My favorites:** Extra-Top, SmartDoc_AI and Revo-Cafee-n1 — also pinned below. SmartDoc_AI is my flagship AI project.
 
 ## 🛠️ Tech Stack
 
