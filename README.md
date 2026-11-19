@@ -11,6 +11,7 @@ I build full-stack web apps and AI-powered backends — from FastAPI + Gemini ag
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://github.com/mo420563-cmyk/SmartDoc_AI)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/mo420563-cmyk/Extra-Top)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/mo420563-cmyk/Extra-Top)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-omar-74b41b285/)
 
 </div>
 
@@ -75,3 +76,4 @@ I build full-stack web apps and AI-powered backends — from FastAPI + Gemini ag
 
 - 📧 **Email:** mo420563@gmail.com
 - 💻 **GitHub:** [github.com/mo420563-cmyk](https://github.com/mo420563-cmyk)
+- 🔗 **LinkedIn:** [linkedin.com/in/mohamed-omar-74b41b285](https://www.linkedin.com/in/mohamed-omar-74b41b285/)
